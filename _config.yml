@@ -40,7 +40,6 @@ defaults:
       text_width: false
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
 
 exclude:
